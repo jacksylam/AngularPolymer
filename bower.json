@@ -1,0 +1,23 @@
+{
+  "name": "angular-polymer",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Jack Lam <jacksylam@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src/assets/bower_components"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "polymer": "Polymer/polymer#^2.0.2",
+    "paper-input": "PolymerElements/paper-input#^2.0.1"
+  }
+}
